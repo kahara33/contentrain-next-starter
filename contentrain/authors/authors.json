@@ -1,14 +1,15 @@
 [
   {
     "ID": "ad3132ae0ff8",
-    "createdAt": "Tue Jan 23 2024 10:48:36 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Tue Jan 23 2024 10:48:36 GMT+0300 (GMT+03:00)",
+    "createdAt": "2024-01-23T07:48:36.000Z",
+    "updatedAt": "2024-07-08T07:39:00.996Z",
+    "status": "publish",
     "fullname": "Sercan Oray",
     "job": "Co-founder / CMO",
     "photosrc": "public/images/1705782599826_sercan.png",
     "photoalt": "Sercan Oray image",
     "description": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company.",
-    "status": "draft"
+    "scheduled": false
   },
   {
     "ID": "eeacee5d426c",
